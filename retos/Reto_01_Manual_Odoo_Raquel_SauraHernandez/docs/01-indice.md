@@ -1,6 +1,6 @@
 # Índice
 
-1. [Introducción](./02-introduccion.md)
+1. [Introducción](02-introduccion.md)
 2. [Instalación y prueba](./03-instalacion.md)
 3. [Ajustes generales](./04-ajustes_generales.md)
 4. [Integración con Gmail](./05-integracion_gmail.md)

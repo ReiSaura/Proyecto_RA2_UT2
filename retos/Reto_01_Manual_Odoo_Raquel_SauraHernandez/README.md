@@ -14,7 +14,7 @@ Carpeta completa `retos/Reto_01_Manual_Odoo_NombreAlumno_ApellidosAlumno/` con:
 ```
 
 ## Índice sugerido (en `01-indice.md`)
-1. Introducción → [02-introduccion.md](docs/02-introduccion.md)
+1. Introducción → [02-introduccion.md](02-introduccion.md)
 2. Instalación y prueba → `03-instalacion.md`
 3. Ajustes generales → `04-ajustes_generales.md`
 4. Integración con Gmail → `05-integracion_gmail.md`
