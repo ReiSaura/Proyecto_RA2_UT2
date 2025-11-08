@@ -3,5 +3,4 @@
 **Proyecto:** Proyecto_RA2_UT2  
 **Fecha:** 2025-10-24
 
-
-![[portada.png]]
+![Portada](../assets/img/portada/portada.png)
