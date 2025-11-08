@@ -1,3 +1,5 @@
+![[Banner.png]]
+
 # Índice
 
 1. [Introducción](02-introduccion.md)
