@@ -1,3 +1,6 @@
+![Banner](../assets/img/portada/Banner.png)
+
+
 # 02 — Introducción
 
 > **Objetivo:** Entender qué es Odoo y qué se cubrirá en el manual.
@@ -65,3 +68,8 @@ Respecto a la calidad de los módulos, especialmente en la versión Community, l
 Pero la calidad de estos módulos puede ser un poco conflictiva en algunas ocasiones. 
 
 Puede ocurrir que algunos módulos no sean compatibles con una actualización o presenten alguna incompatibilidad que pueda hacer fallar o tirar la aplicación. Por esta razón, si se opta por utilizar la versión Community, se debe estar consciente de que se dependerá mucho de la comunidad para el soporte.
+
+
+
+
+![Banner](../assets/img/portada/Banner.png)

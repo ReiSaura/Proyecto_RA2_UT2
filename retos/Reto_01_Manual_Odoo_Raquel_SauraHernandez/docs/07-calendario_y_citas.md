@@ -1,3 +1,5 @@
+![Banner](../assets/img/portada/Banner.png)
+
 # 07 — Calendario y Citas
 
 
@@ -14,7 +16,7 @@
 	El módulo de Calendario se utiliza para conectar y mantener toda la agenda y actividades dentro de Odoo.
 	
 	
-	![[parte07_Calendario.png]]
+	![Calendario](../assets/img/07-calendario_y_citas/parte07_Calendario.png)
 	
 	
 	**Vistas.**
@@ -29,7 +31,7 @@
 	- Esto es útil para agendar una reunión en grupo y verificar la disponibilidad de las personas antes de convocarlas.
 	
 	
-	![[parte07_Vistas.png]]
+	![Vistas](../assets/img/07-calendario_y_citas/parte07_Vistas.png)
 	
 	
 	**Creación de eventos.** 
@@ -37,7 +39,7 @@
 	- Los eventos se crean al clicar en el calendario y se pueden definir la fecha y hora de inicio y fin, además de adjuntar recordatorios, notas y archivos.
 	
 	
-	![[parte07_CreacionEvento.png]]
+	![Creación de un Evento](../assets/img/07-calendario_y_citas/parte07_CreacionEvento.png)
 
 
 
@@ -50,16 +52,16 @@
 	- Se debe crear un nuevo proyecto en la Consola de Google Cloud (ej. "ODU Calendar") y habilitar la Google Calendar API.
 	
 	
-	![[parte07_CreacionProyectoGCC.png]]
+	![Crear Proyecto](../assets/img/07-calendario_y_citas/parte07_CreacionProyectoGCC.png)
 
 
 	
-	![[Parte07_CalendarAPI.png]]
+	![Calendar API](../assets/img/07-calendario_y_citas/Parte07_CalendarAPI.png)
 
 
 	
 	
-	![[parte07_HabilitarAPI.png]]
+	![Habilitar la API](../assets/img/07-calendario_y_citas/parte07_HabilitarAPI.png)
 
 
 
@@ -68,11 +70,11 @@
 	- Se deben crear credenciales como aplicación web. Al crear los permisos, se recomienda marcar todas las opciones de calendario para estar cubierto.
 	
 	
-	![[parte07_Credenciales.png]]
+	![Credenciales](../assets/img/07-calendario_y_citas/parte07_Credenciales.png)
 
 
 	
-	![[parte07_API_DatosUsuario.png]]
+	![Datos de Usuario](../assets/img/07-calendario_y_citas/parte07_API_DatosUsuario.png)
 	
 	
 	**URL de Redireccionamiento.** 
@@ -81,15 +83,15 @@
 	
 	
 	
-	![[parte07_Informacion.png]]
+	![Información](../assets/img/07-calendario_y_citas/parte07_Informacion.png)
 
 
 	
-	![[parte07_Permisos.png]]
+	![Permisos](../assets/img/07-calendario_y_citas/parte07_Permisos.png)
 
 
 	
-	![[parte07_TodosPermisos.png]]
+	![Todos los Permisos](../assets/img/07-calendario_y_citas/parte07_TodosPermisos.png)
 
 
 
@@ -98,7 +100,7 @@
 	- Una vez obtenido el *ID del cliente y el Secreto del cliente de GCP, estos se copian y se pegan en Odoo en Ajustes > Ajustes de calendario > Google Calendar.
 	
 	
-	![[parte07_Vinculacion.png]]
+	![Vinculación](../assets/img/07-calendario_y_citas/parte07_Vinculacion.png)
 
 
 
@@ -119,11 +121,11 @@
 
 
 	
-	![[retos/Reto_01_Manual_Odoo_Raquel_SauraHernandez/assets/img/07-calendario_y_citas/parte07_Enlace.png]]
+	![Enlace](../assets/img/07-calendario_y_citas/parte07_Enlace.png)
 
 
 	
-	![[parte07_InicioLLamada.png]]
+	![Inicio Llamada](../assets/img/07-calendario_y_citas/parte07_InicioLLamada.png)
 	
 	
 	**Funcionalidad.** 
@@ -137,7 +139,7 @@
 	El módulo de Citas debe instalarse por separado y es una opción exclusiva para los planes de pago (Enterprise). Es ideal para servicios de consultoría o servicios médicos.
 	
 	
-	![[parte07_Citas.png]]
+	![Citas](../assets/img/07-calendario_y_citas/parte07_Citas.png)
 
 
 	**Tipos de Citas.**
@@ -145,7 +147,7 @@
 	- Permite configurar diferentes tipos de citas (personales, videollamadas, consultas pagadas, reservas de recursos o mesas de restaurantes).
 	
 	
-	![[parte07_TiposDeCitas.png]]
+	![Tipos de Citas](../assets/img/07-calendario_y_citas/parte07_TiposDeCitas.png)
 
 
 	**Duración y Planificación.** 
@@ -153,7 +155,7 @@
 	- Se define la duración de las citas, la ventana de planificación (intervalo de fechas) y el horario específico (ej. lunes de 9 a 12).
 	
 	
-	![[parte07_CitaCreada.png]]
+	![Cita Creada](../assets/img/07-calendario_y_citas/parte07_CitaCreada.png)
 	
 	
 	**Buffers (Tiempo Mínimo).** 
@@ -171,15 +173,15 @@
 	 - Odoo genera un enlace que se puede copiar y compartir públicamente. Los clientes acceden, eligen un hueco, introducen sus datos y confirman la cita.
 	
 	
-	![[parte07_CompartirCita.png]]
+	![Compartir una Cita](../assets/img/07-calendario_y_citas/parte07_CompartirCita.png)
 
 
 	
-	![[parte07_Enlace.png]]
+	![Enlace](../assets/img/07-calendario_y_citas/parte07_Enlace.png)
 
 
 	
-	![[parte07_EstablecerCita.png]]
+	![Establecer una Cita](../assets/img/07-calendario_y_citas/parte07_EstablecerCita.png)
 	
 	
 	**Integración.** 
@@ -187,4 +189,8 @@
 	- Una vez agendada por el cliente, la cita aparece automáticamente en el Calendario de Odoo del usuario correspondiente
 
 	
-	![[parte07_CitaEnCalendario.png]]
+	![Cita en Calendario](../assets/img/07-calendario_y_citas/parte07_CitaEnCalendario.png)
+
+
+
+![Banner](../assets/img/portada/Banner.png)

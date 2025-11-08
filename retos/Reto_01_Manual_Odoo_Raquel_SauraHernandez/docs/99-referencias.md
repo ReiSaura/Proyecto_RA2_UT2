@@ -1,3 +1,5 @@
+![Banner](../assets/img/portada/Banner.png)
+
 # 99 — Referencias
 
 - Vídeo: *Curso Completo Odoo 2025: De Principiante a Experto en 2 Horas o Otros videos
@@ -6,3 +8,7 @@
 - Odoo Knowledge:
 - Gmail Add-on: 
 - Las que veas necesarias ....
+
+
+
+![Banner](../assets/img/portada/Banner.png)

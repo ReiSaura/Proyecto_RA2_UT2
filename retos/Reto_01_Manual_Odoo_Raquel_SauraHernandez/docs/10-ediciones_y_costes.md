@@ -1,3 +1,5 @@
+![Banner](../assets/img/portada/Banner.png)
+
 # 10 — Ediciones y costes
 
 
@@ -62,3 +64,6 @@
 
 - Si no se activa la cuenta después de iniciar la prueba, la base de datos se borrará en 3 horas
 
+
+
+![Banner](../assets/img/portada/Banner.png)

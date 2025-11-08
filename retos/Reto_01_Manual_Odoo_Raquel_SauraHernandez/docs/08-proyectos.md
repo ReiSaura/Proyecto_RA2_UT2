@@ -1,3 +1,6 @@
+![Banner](../assets/img/portada/Banner.png)
+
+
 # 08 — Proyectos (Kanban)
 
 ## Pasos
@@ -17,15 +20,15 @@
 	- Al crear un proyecto, se puede asociar si este será facturable o no, y vincularlo a un cliente ya guardado en el módulo de Contactos. Esto permite llevar un control de las horas para el cálculo de la facturación futura.
 	
 	
-	![[parte08_Proyecto.png]]
+	![Proyecto](../assets/img/08-proyectos/parte08_Proyecto.png)
 
 
 	
-	![[parte08_NuevoProyecto.png]]
+	![Nuevo Proyecto](../assets/img/08-proyectos/parte08_NuevoProyecto.png)
 
 
 	
-	![[parte08_DatosNuevoProyecto.png]]
+	![Datos del Nuevo Proyecto](../assets/img/08-proyectos/parte08_DatosNuevoProyecto.png)
 	
 	
 	**Etapas (Fases).** 
@@ -35,11 +38,11 @@
 	- El usuario puede crear tantas etapas como desee, aunque se aconseja no complicarlo demasiado.
 	
 	
-	![[parte08_EtapasDeProyecto.png]]
+	![Etapas de Proyecto](../assets/img/08-proyectos/parte08_EtapasDeProyecto.png)
 
 
 	
-	![[parte08_GuardarCambios.png]]
+	![Guardar Cambios](../assets/img/08-proyectos/parte08_GuardarCambios.png)
 	
 	
 	**Tareas.** 
@@ -47,11 +50,11 @@
 	- Las tareas se crean directamente dentro de una etapa. En la ficha de la tarea se puede añadir la descripción, etiquetas, el cliente asociado, la prioridad, y la fecha límite.
 	
 	
-	![[parte08_Etapas_Y_Tareas.png]]
+	![Etapas y Tareas](../assets/img/08-proyectos/parte08_Etapas_Y_Tareas.png)
 
 
 	
-	![[parte08_DatosTarea.png]]
+	![Datos de la Tarea](../assets/img/08-proyectos/parte08_DatosTarea.png)
 	
 	
 	**Subtareas.** 
@@ -63,7 +66,7 @@
 	- Al añadir una subtarea, la tarjeta principal muestra un resumen del progreso (ej. "cero de una" hecha).
 	
 	
-	![[parte08_SubTarea.png]]
+	![SubTarea](../assets/img/08-proyectos/parte08_SubTarea.png)
 
 
 
@@ -100,7 +103,7 @@
 	- La vista es muy visual, mostrando directamente en la tarjeta información relevante como el cliente, la etiqueta, el encargado, la prioridad y la fecha límite, sin necesidad de entrar al detalle de la tarea.
 	
 	
-	![[Vista_Kanban.png]]
+	![Vista en Kanban](../assets/img/08-proyectos/Vista_Kanban.png)
 	
 	
 	**Lista.** 
@@ -108,7 +111,7 @@
 	El módulo también ofrece la vista de listado. En esta vista, el usuario puede filtrar y añadir más campos de interés, como las etiquetas o la fecha planificada.
 	
 	
-	![[parte08_VistaLista.png]]
+	![Vista en Lista](../assets/img/08-proyectos/parte08_VistaLista.png)
 	
 	
 	**Calendario Propio.** 
@@ -118,7 +121,7 @@
 	- Desde esta vista, el usuario puede ver la visual de las tareas recurrentes, las tareas atrasadas, y las tareas pendientes, tanto las propias como las de los compañeros. La opción de Calendario del módulo de Proyectos calendariza los proyectos por separado.
 	
 	
-	![[parte08_VistaCalendario.png]]
+	![Vista en Calendario](../assets/img/08-proyectos/parte08_VistaCalendario.png)
 
 
 
@@ -129,11 +132,11 @@
 	- Odoo incluye un icono  para programar actividades. Esto permite registrar rápidamente acciones como haber enviado un correo, agendado una llamada, o dejado una nota, sin tener que entrar a la tarjeta. Todo lo registrado se marca en el histórico de la tarea.
 	
 	
-	![[parte08_AnalisisDeTareas.png]]
+	![Análisis de Tareas](../assets/img/08-proyectos/parte08_AnalisisDeTareas.png)
 
 
 	
-	![[parte08_VistaAnalisisTareas.png]]
+	![Vista del Análisis de Tareas](../assets/img/08-proyectos/parte08_VistaAnalisisTareas.png)
 	
 	
 	
@@ -144,8 +147,11 @@
 	- Al activarla, una vez entregado el proyecto, el cliente puede calificar cómo ha sido la entrega del proyecto. Esta información es de gran importancia para recibir feedback sobre la gestión, los tiempos de entrega y la calidad de los servicios, y puede consultarse en la sección de Informes y Análisis de las tareas
 	
 	
-	![[parte08_CalificacionClientes.png]]
+	![Calificación de Clientes](../assets/img/08-proyectos/parte08_CalificacionClientes.png)
 
 
 	
-	![[parte08_VistaCalificacion.png]]
+	![Vista de Calificación](../assets/img/08-proyectos/parte08_VistaCalificacion.png)
+
+
+	![Banner](../assets/img/portada/Banner.png)

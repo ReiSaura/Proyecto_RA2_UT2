@@ -1,4 +1,6 @@
-![[Banner.png]]
+![Banner](../assets/img/portada/Banner.png)
+
+
 
 # Índice
 

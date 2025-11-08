@@ -1,3 +1,5 @@
+![Banner](../assets/img/portada/Banner.png)
+
 # 09 — Documentos, Firma e Información (Knowledge)
 
 
@@ -12,7 +14,7 @@
 El Módulo de Documentación (aplicación "Documentos") permite tener una empresa libre de papeles, aglutinando y centralizando todo tipo de documentos para hacer la vida más fácil a los usuarios.
 
 
-![[parte09_Documentos.png]]
+![Documenos](../assets/img/09-documentos_firma_info/parte09_Documentos.png)
 
 
 
@@ -25,7 +27,7 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- Se pueden organizar documentos en carpetas.
 	
 	
-	![[parte09_DocumentosCarpetas.png]]
+	![!\[\[parte09_DocumentosCarpetas.png\]\]](../assets/img/09-documentos_firma_info/parte09_DocumentosCarpetas.png)
 	
 	
 	- Se pueden asignar etiquetas al documento, lo cual es útil para configurar si, a partir de ese documento, se debe generar una factura o si debe ser enviado a otro departamento para su validación (definiendo así un flujo).
@@ -33,7 +35,7 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- Es posible asignar a un documento un contacto o un propietario.
 	
 	
-	![[parte09_PropietarioOAsignar.png]]
+	![!\[\[parte09_PropietarioOAsignar.png\]\]](../assets/img/09-documentos_firma_info/parte09_PropietarioOAsignar.png)
 
 
 
@@ -46,11 +48,11 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- Esta característica es excelente para trabajar de manera colaborativa, permitiendo rastrear qué ha modificado cada persona y evitando problemas de compatibilidad o de descargas locales.
 	
 	
-	![[parte09_AbirExcelOdoo.png]]
+	![Abrir Excel de Odoo](../assets/img/09-documentos_firma_info/parte09_AbirExcelOdoo.png)
 
 
 	
-	![[parte09_Excel.png]]
+	![Excel](../assets/img/09-documentos_firma_info/parte09_Excel.png)
 
 
 
@@ -65,11 +67,11 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- La funcionalidad de firma electrónica se vincula con el Módulo de Documentación y agiliza significativamente el proceso de gestión de contratos.
 	
 	
-	![[parte09_OpcionDividir.png]]
+	![Opción de Dividir](../assets/img/09-documentos_firma_info/parte09_OpcionDividir.png)
 
 
 	
-	![[parte09_VistaDividir.png]]
+	![Vista de Dividir](../assets/img/09-documentos_firma_info/parte09_VistaDividir.png)
 
 
 
@@ -80,27 +82,27 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- Los campos incluyen la firma, el nombre, la fecha, casillas de verificación o texto adicional.
 	
 	
-	![[parte09_CamposFirma.png]]
+	![Campos de Firma](../assets/img/09-documentos_firma_info/parte09_CamposFirma.png)
 
 
 	
-	![[parte09_Firma.png]]
+	![Firma](../assets/img/09-documentos_firma_info/parte09_Firma.png)
 
 
 	
-	![[parte09_VistaFirma.png]]
+	![Vista de Firma](../assets/img/09-documentos_firma_info/parte09_VistaFirma.png)
 
 
 	
-	![[parte09_FirmarAhora.png]]
+	![Firmar Ahora](../assets/img/09-documentos_firma_info/parte09_FirmarAhora.png)
 
 
 	
-	![[parte09_FirmarTodo.png]]
+	![Firmar Todo](../assets/img/09-documentos_firma_info/parte09_FirmarTodo.png)
 
 
 	
-	![[parte09_Validar_EnviarDocumento.png]]
+	![Validar Enviar Documento](../assets/img/09-documentos_firma_info/parte09_Validar_EnviarDocumento.png)
 
 
 
@@ -115,11 +117,11 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 	- Una vez firmado, el documento se envía y el usuario puede descargar una copia.
 	
 	
-	![[parte09_Descargar.png]]
+	![Descargar](../assets/img/09-documentos_firma_info/parte09_Descargar.png)
 
 
 	
-	![[parte09_DocumentosFirma.png]]
+	![Documentos Firma](../assets/img/09-documentos_firma_info/parte09_DocumentosFirma.png)
 	
 	
 	
@@ -132,7 +134,7 @@ El Módulo de Documentación (aplicación "Documentos") permite tener una empres
 El Módulo de Información (Knowledge) es una de las adiciones más recientes y funciona como una potente base de conocimiento.
 
 
-![[parte09_Informacion.png]]
+![Información](../assets/img/09-documentos_firma_info/parte09_Informacion.png)
 
 
 
@@ -143,7 +145,7 @@ El Módulo de Información (Knowledge) es una de las adiciones más recientes y 
 	- Permite acumular todo el conocimiento de la empresa (preguntas frecuentes, documentación, contactos, contratos, guías, etc.) tanto a nivel interno como externo.
 	
 	
-	![[parte09_VistaInformacion.png]]
+	![Vista de Información](../assets/img/09-documentos_firma_info/parte09_VistaInformacion.png)
 	
 	
 	- La herramienta funciona mediante espacios de trabajo (Workspaces).
@@ -157,15 +159,15 @@ El Módulo de Información (Knowledge) es una de las adiciones más recientes y 
 	- Los artículos creados en Knowledge pueden vincularse directamente con tarjetas o tareas en otros módulos, como Proyectos.
 	
 	
-	![[parte09_NuevoEspacioTrabajo.png]]
+	![Nuevo Espacio de Trabajo](../assets/img/09-documentos_firma_info/parte09_NuevoEspacioTrabajo.png)
 
 
 	
-	![[parte09_OpcionesEspacio.png]]
+	![Opciones de Espacio](../assets/img/09-documentos_firma_info/parte09_OpcionesEspacio.png)
 
 
 	
-	![[parte09_OpcionesDocumento.png]]
+	![Opciones de Documento](../assets/img/09-documentos_firma_info/parte09_OpcionesDocumento.png)
 
 
 
@@ -178,4 +180,7 @@ El Módulo de Información (Knowledge) es una de las adiciones más recientes y 
 	- Dentro de las opciones de compartir, también se pueden editar los permisos y la visibilidad de la información
 	
 	
-	![[parte09_Compartir.png]]
+	![Compartir](../assets/img/09-documentos_firma_info/parte09_Compartir.png)
+
+
+![Banner](../assets/img/portada/Banner.png)

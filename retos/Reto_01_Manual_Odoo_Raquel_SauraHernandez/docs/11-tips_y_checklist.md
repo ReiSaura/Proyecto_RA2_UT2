@@ -1,3 +1,5 @@
+![Banner](../assets/img/portada/Banner.png)
+
 # 11 — Tips & Checklist
 
 ## Tips
@@ -16,3 +18,7 @@
 - [x] Proyectos/tareas creados
 - [x] Documentos y firma probados
 - [x] Wiki inicial en Información
+
+
+
+![Banner](../assets/img/portada/Banner.png)
