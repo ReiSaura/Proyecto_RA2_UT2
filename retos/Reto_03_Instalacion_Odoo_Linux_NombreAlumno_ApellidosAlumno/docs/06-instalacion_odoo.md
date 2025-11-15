@@ -10,5 +10,10 @@
    ```
 
 
-	![Update/Upgrade](../assets/img/06-instalacion_odoo/paso01_Instalar_paquetes.png)
+	![[retos/Reto_03_Instalacion_Odoo_Linux_NombreAlumno_ApellidosAlumno/assets/img/06-instalacion_odoo/paso01_Instalar_paquetes.png]]
+
+
+	
+	![[retos/Reto_03_Instalacion_Odoo_Linux_NombreAlumno_ApellidosAlumno/assets/img/06-instalacion_odoo/paso02_Instalar_odoo.png]]
+
 

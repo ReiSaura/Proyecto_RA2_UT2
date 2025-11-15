@@ -6,9 +6,7 @@
    ```
 
 
-	![Update/Upgrade](../assets/img/04-postgresql_linux/paso01_Install_PostgreSQL.png)
-
-
+	![PostgreSQL](../assets/img/04-postgresql_linux/paso01_Install_PostgreSQL.png)
 
 
 

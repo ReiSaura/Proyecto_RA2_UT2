@@ -6,14 +6,13 @@
    ```
 
 
-	![Update/Upgrade](../assets/img/05-dependencias/paso01_Instalar_paquetes.png)
-
+	![Python/Paquetes](../assets/img/05-dependencias/paso01_Instalar_paquetes.png)
 
 
 2. Instala **wkhtmltopdf** compatible (para reportes PDF).
 
 
-	![Update/Upgrade](../assets/img/05-dependencias/paso02_Instalar_wkhtmltopdf.png)
+	![wkhtmltopdf](../assets/img/05-dependencias/paso02_Instalar_wkhtmltopdf.png)
 
 
 3. Verifica versiones:
@@ -23,7 +22,7 @@
    ```
 
 
-	![Update/Upgrade](../assets/img/05-dependencias/paso03_versiones.png)
+	![Versiones](../assets/img/05-dependencias/paso03_versiones.png)
 
 
 > Resultado esperado: dependencias instaladas y comprobadas.
